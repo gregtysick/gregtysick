@@ -8,7 +8,7 @@
 Building tools that streamline financial operations, automate reporting, and bring clarity to business workflows.
 
 📍 Ottawa, ON  
-🔗 [LinkedIn](#) • [Website](https://greg.tysick.com)  
+🔗 [LinkedIn](www.linkedin.com/in/gregtysick) • [Website](https://greg.tysick.com)  
 
 ---
 
