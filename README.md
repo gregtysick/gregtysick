@@ -86,19 +86,6 @@ I focus on:
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=intuit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=power-automate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
-</p>
-
----
 
 ## 📘 Currently Learning  
 - Automation workflows using **Python** and **Power Automate**  
