@@ -97,6 +97,6 @@ I focus on:
 ## 🔗 Connect With Me  
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gregtysick/">gregtysick</a>  
 🐙 GitHub: <a href="https://github.com/gregtysick">gregtysick</a>  
-📧 Email: <a href="mailto:gregtysick@gmail.com">gregtysick@gmail.com</a>
+📧 Email: <a href="mailto:greg#tysick.com">greg@tysick.com</a>
 
 
