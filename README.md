@@ -102,4 +102,6 @@ I focus on:
   <a href="https://github.com/gregtysick">
     <img src="https://img.shields.io/badge/GitHub-gregtysick-181717?style=flat&logo=github&logoColor=white"/>
   </a>
+ 📧 Email: gregtysick@gmail.com
+
 </p>
