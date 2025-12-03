@@ -95,14 +95,8 @@ I focus on:
 ---
 
 ## 🔗 Connect With Me  
-<p>
-  <a href="https://linkedin.com/in/gregtysick">
-    <img src="https://img.shields.io/badge/LinkedIn-gregtysick-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/gregtysick">
-    <img src="https://img.shields.io/badge/GitHub-gregtysick-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/gregtysick/">gregtysick</a>  
+🐙 GitHub: <a href="https://github.com/gregtysick">gregtysick</a>  
+📧 Email: <a href="mailto:gregtysick@gmail.com">gregtysick@gmail.com</a>
 
-</p>
-📧 Email: [greg@tysick.com](mailto:greg@tysick.com)
 
