@@ -2,15 +2,16 @@
 
 <h2 align="center">Accounting & Systems Specialist</h2>
 <p align="center">
-Building tools and automations that make financial operations run smoother.
+Accounting, Automation & Digital Systems | Building Tools That Make Business Operations Clearer
 </p>
 
 ---
 
 ## 🧭 About Me  
-I combine 20+ years in accounting and operations with a builder’s mindset.  
-My strength is improving financial workflows through practical systems, integrations, and lightweight automations.
-
+I combine 20+ years of accounting, operations, and digital problem-solving with a builder’s mindset.
+I improve financial and business workflows through practical systems, modern tools, integrations, and automation.
+I build tools that reduce friction, simplify processes, and make daily work easier for real businesses.
+ 
 I focus on:
 - Reducing manual work  
 - Improving accuracy and reporting  
@@ -24,7 +25,10 @@ I focus on:
 - 📊 **Dashboards & reporting systems** (Excel / Power BI)  
 - 🔄 **Workflow tools** for bookkeeping and operations  
 - 🧪 **Python/C# experiments** for data processing and analysis  
-- 🔧 **Integrations** between accounting, POS, CRM, and reporting tools  
+- 🔧 **Integrations** between accounting, POS, CRM, and reporting tools
+- 🌐 **WordPress/Elementor** components and workflow tools
+- 🔗 **CRM**, e-commerce, or reporting integrations
+- 🧹 **Data cleanup** utilities for accounting and analytics pipelines
 
 ---
 
