@@ -96,9 +96,6 @@ I focus on:
 
 ## 🔗 Connect With Me  
 <p>
-  <a href="https://greg.tysick.com">
-    <img src="https://img.shields.io/badge/Website-greg.tysick.com-blue?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/gregtysick">
     <img src="https://img.shields.io/badge/LinkedIn-gregtysick-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
