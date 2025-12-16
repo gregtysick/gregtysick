@@ -2,16 +2,16 @@
 
 <p align="center">
 Accounting & financial operations professional with a strong analytical and engineering mindset.<br>
-I build practical tools, experiment with data-driven systems, and enjoy turning complex problems into clear, repeatable logic.
+I enjoy turning complex, ambiguous problems into clear, repeatable logic using data, rules, and practical tools.
 </p>
 
 ---
 
 ## How I Think
 
-I’m drawn to environments where precision matters.
+I’m most comfortable working in environments where precision matters.
 
-Whether working with financial records, data, or markets, I tend to approach problems by:
+Across finance, data, and markets, I tend to approach problems by:
 - breaking ambiguity into structured inputs  
 - defining clear rules and constraints  
 - validating data before acting on it  
@@ -27,32 +27,32 @@ I’m less interested in one-off solutions and more interested in **systems that
 I’ve applied this mindset across a few overlapping domains:
 
 ### Financial Operations & Accounting  
-Designing and maintaining clean, reliable financial records; supporting month- and year-end processes; and ensuring that data is accurate, traceable, and usable for decision-making.
+Designing and maintaining clean, reliable financial records; supporting month- and year-end processes; and ensuring financial data is accurate, traceable, and usable for decision-making.
 
 ### Programmatic Trading & Risk Management  
 Personal research into **programmatic trading** (rule-based systems that execute predefined market decisions automatically), where I translate technical analysis into deterministic logic.
 
-These projects focus on:
+This work focuses on:
 - converting discretionary market decisions into code  
 - enforcing risk constraints mechanically  
-- testing logic across different market conditions  
+- testing logic across varying market conditions  
 - removing emotional influence from execution  
 
-For non-traders, I think of this work as **financial decision systems**: defining rules, validating inputs, and letting logic handle execution consistently.
+For non-traders, I think of this as building **financial decision systems**: well-defined rules, validated inputs, and consistent execution.
 
 ### Data Analysis & Automation  
 Building small internal tools and scripts to:
 - clean and normalize data  
-- automate repetitive tasks  
+- automate repetitive or error-prone tasks  
 - improve the clarity and usability of reports  
 
-These are typically pragmatic solutions built to solve specific problems rather than generalized products.
+These are pragmatic solutions built to solve specific problems rather than generalized products.
 
 ---
 
 ## Technical Fluency
 
-I’m comfortable working across modern accounting, data, and automation tools when they help solve a real problem.
+I’m comfortable working across modern accounting, data, and automation tools when they meaningfully reduce friction or improve clarity.
 
 **Accounting & Data**
 - QuickBooks (Online & Desktop)
@@ -78,18 +78,18 @@ I’m comfortable working across modern accounting, data, and automation tools w
 - Cloudflare
 - VS Code
 
-I don’t approach these tools as an engineer-for-hire, but as instruments to explore ideas, automate workflows, and reduce unnecessary manual effort.
+I approach these tools as instruments for exploration and problem-solving, not as an end in themselves.
 
 ---
 
 ## Current Explorations
 
-Some areas I’m actively experimenting with:
+Some areas I’m actively exploring:
 
-- Exploring the **QuickBooks Online API** to better extract, clean, and analyze accounting data  
-- Investigating more readable and decision-friendly financial reporting formats  
-- Refining rule-based logic for financial workflows and market analysis  
-- Building small utilities that replace repetitive, low-value tasks  
+- Programmatic access to accounting data using the **QuickBooks Online API**  
+- More readable and decision-oriented financial reporting formats  
+- Rule-based logic applied to accounting workflows and market analysis  
+- Small utilities that replace repetitive, low-value manual tasks  
 
 These explorations are iterative by design and evolve as tools and ideas change.
 
