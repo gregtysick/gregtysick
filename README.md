@@ -110,5 +110,6 @@ The code here reflects curiosity, iteration, and practical problem-solving rathe
 ## Connect
 
 🔗 <a href="https://www.linkedin.com/in/gregtysick/">LinkedIn</a>  
-🌐 <a href="https://greg.tysick.com">Personal Website</a>  
+🌐 <a href="https://greg.tysick.com">Personal Website</a> 
+▶  <a href="https://www.youtube.com/@Greg.Tysick">YouTube (Professional Channel)</a>
 📧 <a href="mailto:greg@tysick.com">Email</a>
