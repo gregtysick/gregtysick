@@ -1,9 +1,18 @@
 <h1 align="center">Hi, I’m Greg Tysick</h1>
 
 <p align="center">
-Accounting & financial operations professional with a strong analytical and engineering mindset.<br>
-I enjoy turning complex, ambiguous problems into clear, repeatable logic using data, rules, and practical tools.
+Accounting, financial operations, and automation professional focused on turning complex work into clear, repeatable systems.<br>
+I use data, rules, and practical tools to make decisions more reliable, traceable, and easier to execute.
 </p>
+
+---
+
+## Current Focus
+
+Right now, I’m spending most of my time on:
+- building small automation and reporting tools that solve real operational problems
+- improving decision quality in finance, markets, and workflow design
+- publishing more of my work publicly in a clearer, more professional way
 
 ---
 
@@ -92,6 +101,16 @@ Some areas I’m actively exploring:
 - Small utilities that replace repetitive, low-value manual tasks  
 
 These explorations are iterative by design and evolve as tools and ideas change.
+
+---
+
+## Selected Public Work
+
+A few examples of the kinds of projects I share here:
+- [shopify_analytics](https://github.com/gregtysick/shopify_analytics) - Python tooling for pulling and analyzing Shopify sales and inventory data
+- [questrade-reporting](https://github.com/gregtysick/questrade-reporting) - automated financial reporting workflows built from API data
+- [Quantower-Momentum-Candle-Detection](https://github.com/gregtysick/Quantower-Momentum-Candle-Detection) - signal detection logic for time-series and trading analysis
+- [openclaw-dashboard](https://github.com/gregtysick/openclaw-dashboard) - a fork I am adapting to evaluate self-hosted operator dashboards for AI workflow systems
 
 ---
 
